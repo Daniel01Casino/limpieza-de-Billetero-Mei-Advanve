@@ -6,3 +6,4 @@ luego retiramos la tapa superior
 ![tapa billetero1 0](https://github.com/user-attachments/assets/6063e6da-42d8-4422-8548-b03d6a70ef9e)
 tapa retirada
 ![tapa retirada](https://github.com/user-attachments/assets/68c098ca-e77d-4fee-9ee6-ce736362fae2)
+luego retiramos los 4 tornillos de la parte superior 
